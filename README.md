@@ -29,7 +29,7 @@ import csv
 
 Dataset loaded from: https://www.kaggle.com/jessicali9530/lfw-dataset
 
-1. Download kaggle.json from Kaggle containing your (Kaggle API key)[https://www.kaggle.com/docs/api].
+1. Download kaggle.json from Kaggle containing your [Kaggle API key](https://www.kaggle.com/docs/api).
 2. Run the code block below.
 3. Upload kaggle.json when prompted.
     
