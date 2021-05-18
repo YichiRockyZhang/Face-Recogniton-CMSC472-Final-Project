@@ -1,7 +1,6 @@
 # Face-Verification-CMSC472-Final-Project: [Colab Link](https://colab.research.google.com/drive/1HloPmg2NdLmXcCpRPS5qcaLezRQ7oW6X?usp=sharing)
 
 # Getting Started: Loading the Labeled Faces in the Wild (LFW) dataset and the CelebA datadest.
-gonna delete
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
